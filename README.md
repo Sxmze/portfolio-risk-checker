@@ -46,6 +46,12 @@ Or use the requirements file:
 ```bash
 pip install -r requirements.txt
 ```
+## Quick start
+1. Install Python 3.8+ and download this repo
+2. pip install -r requirements.txt
+3. python portfolio_risk.py --demo
+4. Choose option 3 (Analyze risk)
+
 
 ## How to Use
 
