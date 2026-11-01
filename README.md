@@ -3,7 +3,7 @@
 A Python tool that analyzes the risk in your stock portfolio using real market data. Built for beginners learning about portfolio risk and diversification.
 
 ![Screenshot Placeholder](screenshot.png)
-*Example output showing risk analysis for a sample portfolio*
+Portfolio weights grouped two ways. Data as of Oct 29, 2026.
 
 ## What It Does
 
@@ -204,9 +204,6 @@ This is a learning project. Feel free to:
 - Add support for different asset classes
 - Create better grouping algorithms
 
-## License
-
-MIT License - Use this for learning, projects, or interviews.
 
 ## Disclaimer
 
