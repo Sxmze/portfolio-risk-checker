@@ -183,14 +183,6 @@ This grouping reflects *your* view of what actually drives stock prices, not jus
 
 6. **Does not account for** - Transaction costs, taxes, dividends, options, leverage, or other advanced portfolio features.
 
-## For Interviews
-
-If you're explaining these concepts in an interview:
-
-- **Volatility**: "I measure how much daily returns vary using standard deviation, then scale to annual."
-- **Correlation**: "I calculate pairwise correlations to see if stocks move together or independently."
-- **Risk contribution**: "I use the covariance matrix to measure each stock's marginal contribution to total portfolio variance."
-- **Stress view**: "I identify market crash days and measure if stock correlations spike during those periods."
 
 ## Troubleshooting
 
